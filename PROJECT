@@ -1,0 +1,7 @@
+domain: ratk8s
+repo: github.com/amitrathod101/project-kubebuilder
+resources:
+- group: webapp
+  kind: Guestbook
+  version: v1
+version: "2"
